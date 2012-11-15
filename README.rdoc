@@ -30,4 +30,4 @@ MM Copyrights and all included source files are distributed under terms of the M
 
 Running MM::Copyrights.process will add the COPYRIGHT_TEXT to all of the matching files in the SOURCE_DIRECTORY.  Processing the files multiple times is harmless.  
 
-You can change the COPYRIGHT_TEXT and process files again.  The old copyright headers will be replaces with the new content. 
+You can change the COPYRIGHT_TEXT and process files again.  The old copyright headers will be replaced with the new content. 
